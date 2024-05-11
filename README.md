@@ -30,7 +30,7 @@
 
 ### 🏃Rodando projeto no Google Colab
 
-1. Clone o repository
+1. Clone esse repositório
 2. Abra o navegador da web e vá para o [Google Colab](https://colab.research.google.com/).
 3. Se necessário, faça login na sua Conta do Google.
 4. No Google Colab, clique em Arquivo no canto esquerdo.
