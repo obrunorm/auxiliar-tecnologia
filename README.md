@@ -21,7 +21,7 @@
  - Programa que cria perguntas para serem respondidas com o básico de python para adultos e crianças autistas conseguirem aprender usando seu hiperfoco.
 
 ## 📂Documentation
-- [Documentação](https://glaze-anglerfish-7ea.notion.site/Alura-projeto-Imers-o-ee8b7e08ebe644b8a0d694c21494a9d9?pvs=4)
+- [Documentação](https://glaze-anglerfish-7ea.notion.site/Alura-projeto-Imers-o-ee8b7e08ebe644b8a0d694c21494a9d9)
 
 
 ## 🚀Features
