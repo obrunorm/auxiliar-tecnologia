@@ -1,5 +1,4 @@
 <h1 align="center">
-	<img src="https://i.imgur.com/1ivr7ac.png"  alt="Logo"  width="400"><br><br>
 	Imersão Alura
 </h1>
 
